@@ -7,6 +7,7 @@ Rewritten useful standard functions which will contains in static C Library - li
 
 Repo contains Makefile.
 Some basic commands given below
+
 **In command line:**
 
 For compile: 
